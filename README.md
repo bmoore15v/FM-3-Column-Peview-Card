@@ -47,8 +47,8 @@ Mobile View 2
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/stats-preview-card-using-flebox-yCs7sYku8)
-- Live Site URL: [Live Site](https://bmoore15v.github.io/FM-StatsPreviewCard/)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/mobile-first-3-column-display-KjB8xAY9w)
+- Live Site URL: [Live Site](https://bmoore15v.github.io/FM-3-Column-Peview-Card/)
 
 ## My process
 
