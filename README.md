@@ -42,6 +42,7 @@ Mobile View 1
 ![](./design/my-images/mobile_1.png)
 
 Mobile View 2
+
 ![](./design/my-images/mobile_2.png)
 
 ### Links
